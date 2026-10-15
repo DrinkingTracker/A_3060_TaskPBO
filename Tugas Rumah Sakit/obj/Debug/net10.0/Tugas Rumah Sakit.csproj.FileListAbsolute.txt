@@ -1,0 +1,15 @@
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\bin\Debug\net10.0\Tugas Rumah Sakit.exe
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\bin\Debug\net10.0\Tugas Rumah Sakit.deps.json
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\bin\Debug\net10.0\Tugas Rumah Sakit.runtimeconfig.json
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\bin\Debug\net10.0\Tugas Rumah Sakit.dll
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\bin\Debug\net10.0\Tugas Rumah Sakit.pdb
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\Tugas Rumah Sakit.GeneratedMSBuildEditorConfig.editorconfig
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\Tugas Rumah Sakit.AssemblyInfoInputs.cache
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\Tugas Rumah Sakit.AssemblyInfo.cs
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\Tugas Rumah Sakit.csproj.CoreCompileInputs.cache
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\Tugas Rumah Sakit.dll
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\refint\Tugas Rumah Sakit.dll
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\Tugas Rumah Sakit.pdb
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\Tugas Rumah Sakit.genruntimeconfig.cache
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\ref\Tugas Rumah Sakit.dll
+E:\tugas tugas\OOP\Tugas Rumah Sakit\Tugas Rumah Sakit\obj\Debug\net10.0\Tugas Ru.0C2EA158.Up2Date
